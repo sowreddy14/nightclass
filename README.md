@@ -27,9 +27,9 @@ Build a full-stack Marvel fan platform that integrates official Marvel API data 
 | Frontend        | React (Vite), Tailwind CSS          |
 | Backend         | Node.js, Express.js                 |
 | Database        | MongoDB                            |
-| Authentication  | Firebase Auth (optional), JWT       |
+| Authentication  | Googlr OAuth, JWT       |
 | Hosting         | Vercel (Frontend), Render (Backend)|
-| APIs            | Marvel API                         |
+| APIs            | Rest API                         |
 | Real-time       | Socket.io                         |
 
 ---
